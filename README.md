@@ -1,16 +1,26 @@
-### Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&theme=dark)&height=200&section=header&text=Dyastrophism&fontSize=30&animation=fadeIn" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D527F7&multiline=true&width=435&height=60&lines=Hello+there%2C+my+name+is+Guilherme;but+you+can+call+me+Dyastrophism" alt="Typing SVG" /></a>
+<div>
+<div style="display: center"><br>
+<img align="right" alt="Dya-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1013964254484901909/1100244797186379876/kuromi-pfp-1.jpg">
 
-<!--
-**Dyastrophism/Dyastrophism** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Dyastrophism's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dyastrophism&hide=prs,issues,contribs&show_icons=true&theme=dracula )](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=10000&color=D527F7&multiline=true&width=435&height=60&lines=STUDYING+IN+THIS+MOMENT%3A" alt="Typing SVG" /></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+  <img align="center" alt="Dya-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Dya-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Dya-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Dya-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+
+ ##
+ 
+ <div> 
+  <a href="https://instagram.com/norarcat" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/dyastrophism" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href = "mailto:guilhermesouzamaciel1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/guilherme-souza-8b527a258/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
