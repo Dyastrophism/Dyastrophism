@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D527F7&multiline=true&width=435&height=60&lines=Hello+there%2C+my+name+is+Guilherme;but+you+can+call+me+Dyastrophism" alt="Typing SVG" /></a>
 <div>
 <div style="display: center"><br>
-<img align="right" alt="Dya-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1013964254484901909/1100244797186379876/kuromi-pfp-1.jpg">
+
 
 [![Dyastrophism's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dyastrophism&hide=prs,issues,contribs&show_icons=true&theme=dracula )](https://github.com/anuraghazra/github-readme-stats)
 
