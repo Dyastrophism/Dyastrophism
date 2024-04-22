@@ -13,3 +13,13 @@
   <a href="https://www.linkedin.com/in/guilherme-souza-8b527a258/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+<div align="center">
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dyastrophism&layout=compact&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)
+</div>
+
+<div align="center">
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lzh692e0t4aryx95bxpbvzhom&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+</div>
