@@ -1,4 +1,4 @@
-```
+```java
 @Slf4j
 @Data
 @AllArgsConstructor
@@ -21,7 +21,7 @@ public class InformationTech {
     }
 
     public static void main(String[] args) {
-        InformationTech informationTech = new SoftwareEngineer(
+        InformationTech informationTech = new informationTech(
             "Guilherme Maciel",
             "Information Technology",
             Arrays.asList("Portuguese", "English")
