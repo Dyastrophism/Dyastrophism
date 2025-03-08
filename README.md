@@ -1,48 +1,50 @@
-```java
-@Slf4j
-@Data
-@AllArgsConstructor
-@NoArgsConstructor
-public class InformationTech {
-    private String name;
-    private String role;
-    private List<String> spokenLanguages;
+## About me 📜
+Hi, I’m Guilherme Maciel, a software developer & IT student focused on harnessing technology to make significant impacts in the tech industry and beyond.
 
-    public void writeToFile(String filename) {
-        String text = "Name: " + this.name + "\n"
-                    + "Role: " + this.role + "\n"
-                    + "Spoken Languages: " + this.getSpokenLanguagesString() + "\n"
-                    + "Thanks for dropping by, hope you find some of my work interesting.\n";
-        try {
-            Files.write(Paths.get(filename), text.getBytes());
-        } catch (IOException e) {
-            log.error("Error generating the file", e.getMessage());
-        }
-    }
+## My Interests 👀
+- Web Development: I thrive in the world of backend development, where Java’s robustness and ecosystem provide the foundation for scalable, high-performance applications. Working with Spring Boot, microservices, and RESTful APIs, I enjoy designing clean architectures that are maintainable and efficient.
+- Engaging with Open Source: The open-source ecosystem is a constant source of learning and innovation. Contributing to projects, whether through fixing issues, improving documentation, or collaborating on new features, helps me stay engaged with the broader web development community.
 
-    public static void main(String[] args) {
-        InformationTech informationTech = new informationTech(
-            "Guilherme Maciel",
-            "Information Technology",
-            Arrays.asList("Portuguese", "English")
-        );
-        informationTech.writeToFile("guilherme-maciel-info.txt");
-    }
-}
-```
+## Professional Goals 🚀
+- **Career Development:** I am focused on advancing my career in software development, specializing in backend technologies with Java, Spring Boot, and microservices. I aim to contribute to high-impact projects that emphasize performance, scalability, and security.
+- **Mastering Web Development:** Beyond backend expertise, I am expanding my knowledge in full-stack development, deepening my skills in frontend frameworks like React and Angular, API security best practices, and optimizing performance for web applications.
 
- <div> 
+<div> 
   <a href = "mailto:guilhermesouzamaciel1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guilherme-souza-8b527a258/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 ## These are the technologies I usually work with
 <div>
- <img align="center" alt="postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
- <img align="center" alt="intelliJ" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
- <img align="center" alt="html5" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
- <img align="center" alt="html5" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
- <img align="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img align="center" alt="html5" src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white"/>
+<img align="center" alt="html5" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"/>
+<img align="center" alt="html5" src="https://img.shields.io/badge/VS%20Code%20Insiders-35b393.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img align="center" alt="html5" src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white"/>
+<img align="center" alt="html5" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+<img align="center" alt="html5" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+<img align="center" alt="html5" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/>
+<img align="center" alt="html5" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white"/>
+<img align="center" alt="html5" src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white"/>
+<img align="center" alt="html5" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+<img align="center" alt="html5" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
+<img align="center" alt="html5" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+<img align="center" alt="html5" src="https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white"/>
+<img align="center" alt="html5" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"/>
+<img align="center" alt="html5" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img align="center" alt="html5" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+<img align="center" alt="html5" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+<img align="center" alt="html5" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<img align="center" alt="html5" src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white" />
+<img align="center" alt="html5" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img align="center" alt="html5" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<img align="center" alt="html5" src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white"/>
+<img align="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div>
 
 <br>
@@ -50,10 +52,5 @@ public class InformationTech {
 <div align="center">
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dyastrophism&layout=compact&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)
-</div>
-
-<div align="center">
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lzh692e0t4aryx95bxpbvzhom&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 </div>
 
